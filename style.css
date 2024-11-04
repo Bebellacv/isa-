@@ -1,3 +1,17 @@
+body{ 
+    color: black;
+    background: plum;
+    margin: 0px;
+    font-family: "Inconsolata", monospace;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: solid 2px powderblue;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
+
 .chamada{
     background: purple;
     margin-top: 80px;
